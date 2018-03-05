@@ -1,2 +1,20 @@
 # Nine-Men-s-Morris
-My first team-work's result in college school at 2014/04? 05?
+A Game about Chess game.
+
+## When
+At 2014 spring, the first year I lived in the college school.
+
+## Where
+China,Liaoning,Dalian,University dormitory
+
+## Who 
+Mr Z,Mr S, Mr W
+
+## How
+C++ & QT
+
+## What
+Generate ridiculous codes
+
+## To
+Remember.That's meaningful.
